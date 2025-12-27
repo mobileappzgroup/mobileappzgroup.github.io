@@ -44,7 +44,7 @@
         "_en": {},
         "_hi": {}
       },
-      "icon": "",
+      "icon": "https://mobileappzgroup.github.io/appIcons/LoveLines.webp",
       "packageName": "com.mobileappzgroup.lovelines"
     },
     "2": {
@@ -57,7 +57,7 @@
         "_en": {},
         "_hi": {}
       },
-      "icon": "",
+      "icon": "https://mobileappzgroup.github.io/appIcons/InspireMe.webp",
       "packageName": "com.mobileappzgroup.inspireme"
     },
     "3": {
@@ -70,7 +70,7 @@
         "_en": {},
         "_hi": {}
       },
-      "icon": "",
+      "icon": "https://mobileappzgroup.github.io/appIcons/QuickChat.webp",
       "packageName": "com.mobileappz.quickchat"
     },
     "4": {
@@ -83,7 +83,7 @@
         "_en": {},
         "_hi": {}
       },
-      "icon": "",
+      "icon": "https://mobileappzgroup.github.io/appIcons/LittleRhymes.webp",
       "packageName": "com.mobileappzgroup.rhymes"
     },
     "5": {
@@ -96,7 +96,7 @@
         "_en": {},
         "_hi": {}
       },
-      "icon": "",
+      "icon": "https://mobileappzgroup.github.io/appIcons/BalMantras.webp",
       "packageName": "com.mobileappzgroup.balmantras"
     },
     "6": {
@@ -109,7 +109,7 @@
         "_en": {},
         "_hi": {}
       },
-      "icon": "",
+      "icon": "https://mobileappzgroup.github.io/appIcons/Romanticareads.webp",
       "packageName": "com.mobileappzgroup.romanticareads"
     },
     "7": {
@@ -122,7 +122,7 @@
         "_en": {},
         "_hi": {}
       },
-      "icon": "",
+      "icon": "https://mobileappzgroup.github.io/appIcons/ImageFit.webp",
       "packageName": "com.mobileappzgroup.imagefit"
     }
   }
