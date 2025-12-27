@@ -1,0 +1,127 @@
+{
+  "ids": {
+    "com.mobileappzgroup.lovelines": 1,
+    "com.mobileappzgroup.inspireme": 2,
+    "com.mobileappz.quickchat": 3,
+    "com.mobileappzgroup.rhymes": 4,
+    "com.mobileappzgroup.balmantras": 5,
+    "com.mobileappzgroup.romanticareads": 6,
+    "com.mobileappzgroup.imagefit": 7
+  },
+  "filters": {
+    "1": [
+      "2,3,4,5,6,7"
+    ],
+    "2": [
+      "1,3,4,5,6,7"
+    ],
+    "3": [
+      "1,2,4,5,6,7"
+    ],
+    "4": [
+      "1,2,3,5,6,7"
+    ],
+    "5": [
+      "1,2,3,4,6,7"
+    ],
+    "6": [
+      "1,2,3,4,5,7"
+    ],
+    "7": [
+      "1,2,3,4,5,6"
+    ]
+  },
+  "apps": {
+    "1": {
+      "infoByLanguage": {
+        "default": {
+          "name": "LoveLines: Flirt Vault",
+          "shortDesc": "Charming pick-up lines to ignite romance and spark love.",
+          "category": "Entertainment"
+        },
+        "_en": {},
+        "_hi": {}
+      },
+      "icon": "",
+      "packageName": "com.mobileappzgroup.lovelines"
+    },
+    "2": {
+      "infoByLanguage": {
+        "default": {
+          "name": "InspireMe: Quotes for Life",
+          "shortDesc": "Boost your day with inspiring quotes from various themes!",
+          "category": "Entertainment"
+        },
+        "_en": {},
+        "_hi": {}
+      },
+      "icon": "",
+      "packageName": "com.mobileappzgroup.inspireme"
+    },
+    "3": {
+      "infoByLanguage": {
+        "default": {
+          "name": "Quick Chat: Whatsapp Direct",
+          "shortDesc": "Direct chat with unsaved numbers. Fast & simple.",
+          "category": "Productivity"
+        },
+        "_en": {},
+        "_hi": {}
+      },
+      "icon": "",
+      "packageName": "com.mobileappz.quickchat"
+    },
+    "4": {
+      "infoByLanguage": {
+        "default": {
+          "name": "Little Rhymes: Songs & Poems",
+          "shortDesc": "Classic nursery rhymes for families. Simple, calming, and easy to enjoy together",
+          "category": "Entertainment"
+        },
+        "_en": {},
+        "_hi": {}
+      },
+      "icon": "",
+      "packageName": "com.mobileappzgroup.rhymes"
+    },
+    "5": {
+      "infoByLanguage": {
+        "default": {
+          "name": "Bal Mantras: Peaceful Chants",
+          "shortDesc": "Simple mantras and shlokas for calm chanting and mindful learning.",
+          "category": "Entertainment"
+        },
+        "_en": {},
+        "_hi": {}
+      },
+      "icon": "",
+      "packageName": "com.mobileappzgroup.balmantras"
+    },
+    "6": {
+      "infoByLanguage": {
+        "default": {
+          "name": "Romantica Reads : Novels",
+          "shortDesc": "Romantic novels, love stories & heartfelt fiction in one beautiful reading app",
+          "category": "Entertainment"
+        },
+        "_en": {},
+        "_hi": {}
+      },
+      "icon": "",
+      "packageName": "com.mobileappzgroup.romanticareads"
+    },
+    "7": {
+      "infoByLanguage": {
+        "default": {
+          "name": "Image Fit – Compress & Resize",
+          "shortDesc": "Resize, compress & convert images to meet upload size and format limits.",
+          "category": "Productivity"
+        },
+        "_en": {},
+        "_hi": {}
+      },
+      "icon": "",
+      "packageName": "com.mobileappzgroup.imagefit"
+    }
+  }
+}
