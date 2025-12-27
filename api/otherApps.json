@@ -41,8 +41,7 @@
           "shortDesc": "Charming pick-up lines to ignite romance and spark love.",
           "category": "Entertainment"
         },
-        "_en": {},
-        "_hi": {}
+        "_en": {"name":"","shortDesc":"","category":""}
       },
       "icon": "https://mobileappzgroup.github.io/appIcons/LoveLines.webp",
       "packageName": "com.mobileappzgroup.lovelines"
@@ -54,8 +53,7 @@
           "shortDesc": "Boost your day with inspiring quotes from various themes!",
           "category": "Entertainment"
         },
-        "_en": {},
-        "_hi": {}
+        "_en": {"name":"","shortDesc":"","category":""}
       },
       "icon": "https://mobileappzgroup.github.io/appIcons/InspireMe.webp",
       "packageName": "com.mobileappzgroup.inspireme"
@@ -67,8 +65,7 @@
           "shortDesc": "Direct chat with unsaved numbers. Fast & simple.",
           "category": "Productivity"
         },
-        "_en": {},
-        "_hi": {}
+        "_en": {"name":"","shortDesc":"","category":""}
       },
       "icon": "https://mobileappzgroup.github.io/appIcons/QuickChat.webp",
       "packageName": "com.mobileappz.quickchat"
@@ -80,8 +77,7 @@
           "shortDesc": "Classic nursery rhymes for families. Simple, calming, and easy to enjoy together",
           "category": "Entertainment"
         },
-        "_en": {},
-        "_hi": {}
+        "_en": {"name":"","shortDesc":"","category":""}
       },
       "icon": "https://mobileappzgroup.github.io/appIcons/LittleRhymes.webp",
       "packageName": "com.mobileappzgroup.rhymes"
@@ -93,8 +89,7 @@
           "shortDesc": "Simple mantras and shlokas for calm chanting and mindful learning.",
           "category": "Entertainment"
         },
-        "_en": {},
-        "_hi": {}
+        "_en": {"name":"","shortDesc":"","category":""}
       },
       "icon": "https://mobileappzgroup.github.io/appIcons/BalMantras.webp",
       "packageName": "com.mobileappzgroup.balmantras"
@@ -106,8 +101,7 @@
           "shortDesc": "Romantic novels, love stories & heartfelt fiction in one beautiful reading app",
           "category": "Entertainment"
         },
-        "_en": {},
-        "_hi": {}
+        "_en": {"name":"","shortDesc":"","category":""}
       },
       "icon": "https://mobileappzgroup.github.io/appIcons/Romanticareads.webp",
       "packageName": "com.mobileappzgroup.romanticareads"
@@ -119,8 +113,7 @@
           "shortDesc": "Resize, compress & convert images to meet upload size and format limits.",
           "category": "Productivity"
         },
-        "_en": {},
-        "_hi": {}
+        "_en": {"name":"","shortDesc":"","category":""}
       },
       "icon": "https://mobileappzgroup.github.io/appIcons/ImageFit.webp",
       "packageName": "com.mobileappzgroup.imagefit"
