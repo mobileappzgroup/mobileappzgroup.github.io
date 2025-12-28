@@ -8,7 +8,8 @@
     "com.mobileappzgroup.rhymes": 4,
     "com.mobileappzgroup.balmantras": 5,
     "com.mobileappzgroup.romanticareads": 6,
-    "com.mobileappzgroup.imagefit": 7
+    "com.mobileappzgroup.imagefit": 7,
+    "com.mobileappzgroup.shotspace": 8
   },
   "filters": {
     "1": [
@@ -31,6 +32,9 @@
     ],
     "7": [
       1,2,3,4,5,6
+    ],
+    "8": [
+      1,2,3,4,5,6,7
     ]
   },
   "apps": {
