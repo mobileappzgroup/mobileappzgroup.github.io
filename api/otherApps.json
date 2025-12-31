@@ -9,32 +9,36 @@
     "com.mobileappzgroup.balmantras": 5,
     "com.mobileappzgroup.romanticareads": 6,
     "com.mobileappzgroup.imagefit": 7,
-    "com.mobileappzgroup.shotspace": 8
+    "com.mobileappzgroup.shotspace": 8,
+    "com.mobileappzgroup.textify": 9,
   },
   "filters": {
     "1": [
-      2,3,4,5,6,7
+      2,3,4,5,6,7,8
     ],
     "2": [
-      1,3,4,5,6,7
+      1,3,4,5,6,7,8
     ],
     "3": [
-      1,2,4,5,6,7
+      1,2,4,5,6,7,8
     ],
     "4": [
-      1,2,3,5,6,7
+      1,2,3,5,6,7,8
     ],
     "5": [
-      1,2,3,4,6,7
+      1,2,3,4,6,7,8
     ],
     "6": [
-      1,2,3,4,5,7
+      1,2,3,4,5,7,8
     ],
     "7": [
-      1,2,3,4,5,6
+      1,2,3,4,5,6,8
     ],
     "8": [
       1,2,3,4,5,6,7
+    ],
+    "9": [
+      1,2,3,4,5,6,7,8
     ]
   },
   "apps": {
@@ -121,6 +125,30 @@
       },
       "icon": "https://mobileappzgroup.github.io/appIcons/ImageFit.webp",
       "packageName": "com.mobileappzgroup.imagefit"
+    },
+    "8": {
+      "infoByLanguage": {
+        "default": {
+          "name": "ShotSpace – Smart Screenshots",
+          "shortDesc": "Find, tag & organize your screenshots instantly",
+          "category": "Tools"
+        },
+        "_en": {"name":"","shortDesc":"","category":""}
+      },
+      "icon": "https://mobileappzgroup.github.io/appIcons/ShotSpace.webp",
+      "packageName": "com.mobileappzgroup.shotspace"
+    },
+    "9": {
+      "infoByLanguage": {
+        "default": {
+          "name": "Textify–Repeater & Fancy Fonts",
+          "shortDesc": "Repeat text, apply fancy Unicode fonts, and create stylish messages in seconds",
+          "category": "Productivity"
+        },
+        "_en": {"name":"","shortDesc":"","category":""}
+      },
+      "icon": "https://mobileappzgroup.github.io/appIcons/Textify.webp",
+      "packageName": "com.mobileappzgroup.textify"
     }
   }
 }
