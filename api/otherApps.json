@@ -12,41 +12,45 @@
     "com.mobileappzgroup.shotspace": 8,
     "com.mobileappzgroup.textify": 9,
     "com.mobileappzgroup.copydesk": 10,
-    "com.mobileappzgroup.unitgo": 11
+    "com.mobileappzgroup.unitgo": 11,
+    "com.mobileappzgroup.vitals": 12
   },
   "filters": {
     "1": [
-      2,3,4,5,6,7,8,9,10
+      2,3,4,5,6,7,8,9,10,11
     ],
     "2": [
-      1,3,4,5,6,7,8,9,10
+      1,3,4,5,6,7,8,9,10,11
     ],
     "3": [
-      1,2,4,5,6,7,8,9,10
+      5,1,2,4,6,7,8,9,10,11
     ],
     "4": [
-      1,2,3,5,6,7,8,9,10
+      1,2,3,5,6,7,8,9,10,11
     ],
     "5": [
-      1,2,3,4,6,7,8,9,10
+      3,1,2,4,6,7,8,9,10,11
     ],
     "6": [
-      1,2,3,4,5,7,8,9,10
+      1,2,3,4,5,7,8,9,10,11
     ],
     "7": [
-      1,2,3,4,5,6,8,9,10
+      1,2,3,4,5,6,8,9,10,11
     ],
     "8": [
-      1,2,3,4,5,6,7,9,10
+      1,2,3,4,5,6,7,9,10,11
     ],
     "9": [
-      1,2,3,4,5,6,7,8,10
+      1,2,3,4,5,6,7,8,10,11
     ],
     "10": [
-      1,2,3,4,5,6,7,8,9
+      1,2,3,4,5,6,7,8,9,11
     ],
     "11": [
       1,2,3,4,5,6,7,8,9,10
+    ],
+    "12": [
+      1,2,3,4,5,6,7,8,9,10,11
     ]
   },
   "apps": {
@@ -115,7 +119,7 @@
         "default": {
           "name": "Romantica Reads : Novels",
           "shortDesc": "Romantic novels, love stories & heartfelt fiction in one beautiful reading app",
-          "category": "Entertainment"
+          "category": "Books"
         },
         "_en": {"name":"","shortDesc":"","category":""}
       },
@@ -161,14 +165,38 @@
     "10": {
       "infoByLanguage": {
         "default": {
-          "name": "CopyDesk & Fancy Fonts",
-          "shortDesc": "Repeat text, apply fancy Unicode fonts, and create stylish messages in seconds",
+          "name": "CopyDesk – Smart Clipboard",
+          "shortDesc": "Save, organize, and manage copied text with tags and categories.",
           "category": "Productivity"
         },
         "_en": {"name":"","shortDesc":"","category":""}
       },
       "icon": "https://mobileappzgroup.github.io/appIcons/CopyDesk.webp",
       "packageName": "com.mobileappzgroup.copydesk"
+    },
+    "11": {
+      "infoByLanguage": {
+        "default": {
+          "name": "UnitGo – Smart Unit Converter",
+          "shortDesc": "Convert units & currency instantly. Just type and go.",
+          "category": "Productivity"
+        },
+        "_en": {"name":"","shortDesc":"","category":""}
+      },
+      "icon": "https://mobileappzgroup.github.io/appIcons/UnitGo.webp",
+      "packageName": "com.mobileappzgroup.unitgo"
+    },
+    "12": {
+      "infoByLanguage": {
+        "default": {
+          "name": "Vitals: Your Health Journey",
+          "shortDesc": "Track weight, visualize trends, and master your metabolism with zero friction.",
+          "category": "Health & fitness"
+        },
+        "_en": {"name":"","shortDesc":"","category":""}
+      },
+      "icon": "https://mobileappzgroup.github.io/appIcons/Vitals.webp",
+      "packageName": "com.mobileappzgroup.vitals"
     }
   }
 }
