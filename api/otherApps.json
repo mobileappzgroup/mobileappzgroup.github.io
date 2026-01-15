@@ -13,44 +13,52 @@
     "com.mobileappzgroup.textify": 9,
     "com.mobileappzgroup.copydesk": 10,
     "com.mobileappzgroup.unitgo": 11,
-    "com.mobileappzgroup.vitals": 12
+    "com.mobileappzgroup.vitals": 12,
+    "com.mobileappzgroup.flagsprint": 13,
+    "com.mobileappzgroup.base64toolkit": 14
   },
   "filters": {
     "1": [
-      2,3,4,5,6,7,8,9,10,11
+      2,3,4,5,6,7,8,9,10,11,12,13,14
     ],
     "2": [
-      1,3,4,5,6,7,8,9,10,11
+      1,3,4,5,6,7,8,9,10,11,12,13,14
     ],
     "3": [
-      5,1,2,4,6,7,8,9,10,11
+      5,1,2,4,6,7,8,9,10,11,12,13,14
     ],
     "4": [
-      1,2,3,5,6,7,8,9,10,11
+      1,2,3,5,6,7,8,9,10,11,12,13,14
     ],
     "5": [
-      3,1,2,4,6,7,8,9,10,11
+      3,1,2,4,6,7,8,9,10,11,12,13,14
     ],
     "6": [
-      1,2,3,4,5,7,8,9,10,11
+      1,2,3,4,5,7,8,9,10,11,12,13,14
     ],
     "7": [
-      1,2,3,4,5,6,8,9,10,11
+      1,2,3,4,5,6,8,9,10,11,12,13,14
     ],
     "8": [
-      1,2,3,4,5,6,7,9,10,11
+      1,2,3,4,5,6,7,9,10,11,12,13,14
     ],
     "9": [
-      1,2,3,4,5,6,7,8,10,11
+      1,2,3,4,5,6,7,8,10,11,12,13,14
     ],
     "10": [
-      1,2,3,4,5,6,7,8,9,11
+      1,2,3,4,5,6,7,8,9,11,12,13,14
     ],
     "11": [
-      1,2,3,4,5,6,7,8,9,10
+      1,2,3,4,5,6,7,8,9,10,12,13,14
     ],
     "12": [
-      1,2,3,4,5,6,7,8,9,10,11
+      1,2,3,4,5,6,7,8,9,10,11,13,14
+    ],
+    "13": [
+      1,2,3,4,5,6,7,8,9,10,11,12,14
+    ],
+    "14": [
+      1,2,3,4,5,6,7,8,9,10,11,12,13
     ]
   },
   "apps": {
@@ -83,7 +91,7 @@
         "default": {
           "name": "Quick Chat: Whatsapp Direct",
           "shortDesc": "Direct chat with unsaved numbers. Fast & simple.",
-          "category": "Productivity"
+          "category": "Tools"
         },
         "_en": {"name":"","shortDesc":"","category":""}
       },
@@ -131,7 +139,7 @@
         "default": {
           "name": "Image Fit – Compress & Resize",
           "shortDesc": "Resize, compress & convert images to meet upload size and format limits.",
-          "category": "Productivity"
+          "category": "Tools"
         },
         "_en": {"name":"","shortDesc":"","category":""}
       },
@@ -143,7 +151,7 @@
         "default": {
           "name": "ShotSpace – Smart Screenshots",
           "shortDesc": "Find, tag & organize your screenshots instantly",
-          "category": "Tools"
+          "category": "Productivity"
         },
         "_en": {"name":"","shortDesc":"","category":""}
       },
@@ -155,7 +163,7 @@
         "default": {
           "name": "Textify–Repeater & Fancy Fonts",
           "shortDesc": "Repeat text, apply fancy Unicode fonts, and create stylish messages in seconds",
-          "category": "Productivity"
+          "category": "Tools"
         },
         "_en": {"name":"","shortDesc":"","category":""}
       },
@@ -179,7 +187,7 @@
         "default": {
           "name": "UnitGo – Smart Unit Converter",
           "shortDesc": "Convert units & currency instantly. Just type and go.",
-          "category": "Productivity"
+          "category": "Tools"
         },
         "_en": {"name":"","shortDesc":"","category":""}
       },
@@ -197,6 +205,30 @@
       },
       "icon": "https://mobileappzgroup.github.io/appIcons/Vitals.webp",
       "packageName": "com.mobileappzgroup.vitals"
+    },
+    "13": {
+      "infoByLanguage": {
+        "default": {
+          "name": "Flag Sprint: Race the World",
+          "shortDesc": "The ultimate fast-paced flag challenge. Race the clock, not the textbook.",
+          "category": "Educational"
+        },
+        "_en": {"name":"","shortDesc":"","category":""}
+      },
+      "icon": "https://mobileappzgroup.github.io/appIcons/FlagSprint.webp",
+      "packageName": "com.mobileappzgroup.flagsprint"
+    },
+    "14": {
+      "infoByLanguage": {
+        "default": {
+          "name": "Base64 Toolkit: Encode & JWT",
+          "shortDesc": "Fast Base64 encode, decode & JWT tools for developers. Offline & private.",
+          "category": "Tools"
+        },
+        "_en": {"name":"","shortDesc":"","category":""}
+      },
+      "icon": "https://mobileappzgroup.github.io/appIcons/Base64Toolkit.webp",
+      "packageName": "com.mobileappzgroup.base64toolkit"
     }
   }
 }
