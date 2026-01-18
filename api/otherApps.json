@@ -15,7 +15,8 @@
     "com.mobileappzgroup.unitgo": 11,
     "com.mobileappzgroup.vitals": 12,
     "com.mobileappzgroup.flagsprint": 13,
-    "com.mobileappzgroup.base64toolkit": 14
+    "com.mobileappzgroup.base64toolkit": 14,
+    "com.mobileappzgroup.aarti": 15
   },
   "filters": {
     "1": [
@@ -59,6 +60,9 @@
     ],
     "14": [
       1,2,3,4,5,6,7,8,9,10,11,12,13
+    ],
+    "15": [
+      1,2,3,4,5,6,7,8,9,10,11,12,13,14
     ]
   },
   "apps": {
@@ -229,6 +233,18 @@
       },
       "icon": "https://mobileappzgroup.github.io/appIcons/Base64Toolkit.webp",
       "packageName": "com.mobileappzgroup.base64toolkit"
+    },
+    "15": {
+      "infoByLanguage": {
+        "default": {
+          "name": "Aarti & Chalisa Sangrah",
+          "shortDesc": "Complete Aarti and Chalisa sangrah in Hindi. Clean, devotional, offline.",
+          "category": "Entertainment"
+        },
+        "_en": {"name":"","shortDesc":"","category":""}
+      },
+      "icon": "https://mobileappzgroup.github.io/appIcons/AartiSangrah.webp",
+      "packageName": "com.mobileappzgroup.aarti"
     }
   }
 }
