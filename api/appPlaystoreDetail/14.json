@@ -5,7 +5,7 @@
   "summary": "Fast Base64 encode, decode & JWT tools for developers. Offline & private.",
   "installs": "1+",
   "minInstalls": 1,
-  "realInstalls": 2,
+  "realInstalls": 4,
   "score": null,
   "ratings": null,
   "reviews": null,

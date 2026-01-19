@@ -23,8 +23,8 @@
   "saleTime": null,
   "originalPrice": null,
   "saleText": null,
-  "offersIAP": false,
-  "inAppProductPrice": null,
+  "offersIAP": true,
+  "inAppProductPrice": "$1.99 per item",
   "developer": "Mobile Appz Group",
   "developerId": "Mobile+Appz+Group",
   "developerEmail": "mobileappzgroup+balmantras@gmail.com",
@@ -37,11 +37,10 @@
   "icon": "https://play-lh.googleusercontent.com/HOx-RbdgDoGTHb5bpbStbq6tyxXnKjacsNuwEo17hgqpFGu_B4-Tj-GY-HX-zTvx-dLRpwi21sUyr43gzc4Q_g",
   "headerImage": "https://play-lh.googleusercontent.com/tRmlZ8D5aBNaBb6GUceYZCO5sL_gGCPzM6_lcU3G2S5moWM4soZ79ZWIPOfKfZRUdv18AiwD_7UUOniEpvoSlIw",
   "screenshots": [
-    "https://play-lh.googleusercontent.com/FD2epYFWuyB68zBAuIPreZRs_8PlxqWJyiJohnhf-sNff0hQMkaukHRWKC5Eo01kVr0Lk357dHt7povmsPX0",
-    "https://play-lh.googleusercontent.com/I79VFai8vcefaoQ2RiovgFe1ZZLywihk1x8IKu55tztLYmhTBRE1VVNLw_b4pDsfT3AvSrRXYgVtprTFR5yD2Q",
-    "https://play-lh.googleusercontent.com/fTPBouGwwWlz8VXZhBmBY4ZtD_1lrFXvjU05EU9GtYy0aQhs-FE_SjxWl6CO-7GOrz0QYHcufknuS5phKgUv",
-    "https://play-lh.googleusercontent.com/ch_RMprxSo3zmuUE5ysNmWzz_Zn__bzA7OWLq5CkuMg6fepnIa-LM92iVo6XcPXSgbSdBIXfrybauLIE4D2y",
-    "https://play-lh.googleusercontent.com/z2fGQjbbvnhcBCemVZpDKMIprCIg3w_g4ReXcIE2ALZALB5u55LXtb2lclDkvpYwHMjMGBveCgOvBLx5M3Zziw"
+    "https://play-lh.googleusercontent.com/Q70yP2hsI5OJMBngYOPrcY1UKEg3GifKF3jlgnpO5AEZhMc8bh-aAFSuCDby8pdLmAaHm3PfcLB_UoxFpFlh5Lc",
+    "https://play-lh.googleusercontent.com/pvv1dz9M3A6GKd1aCe9oWiG1b4_Ktt2hxvUxy9AVIhaUrzTiieLiXHK3lEoQAofW0UJLLUuPYHs85KYYt7GFLA",
+    "https://play-lh.googleusercontent.com/9lqHv2fBx1Dw9oEJo0689sX3XR1oS15vfYIsrPXlc93lW1KTJD0rmCWtB2YZ3UjKg3KfzR0B8xFWt4tsagK8TQ",
+    "https://play-lh.googleusercontent.com/L5PYUVLcG0U9QOphQTH2mAZuDvLK0pzPO2935V8cug3hWdfA0UyLbNCOKqhfGc8LLojCMA5L2zcLZNJQZY0jp4k"
   ],
   "video": null,
   "videoImage": null,
