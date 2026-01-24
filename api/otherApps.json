@@ -16,7 +16,8 @@
     "com.mobileappzgroup.vitals": 12,
     "com.mobileappzgroup.flagsprint": 13,
     "com.mobileappzgroup.base64toolkit": 14,
-    "com.mobileappzgroup.aarti": 15
+    "com.mobileappzgroup.aarti": 15,
+    "com.mobileappzgroup.qrstudio": 16
   },
   "webListedApps" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15],
   "filters": {
@@ -64,6 +65,9 @@
     ],
     "15": [
       1,2,3,4,5,6,7,8,9,10,11,12,13,14
+    ],
+    "16": [
+      1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
     ]
   },
   "apps": {
