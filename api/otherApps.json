@@ -1,82 +1,46 @@
 {
-  "listType":"grid",
-  "_listType":"list",
+  "listType": "grid",
+  "_listType": "list",
   "ids": {
-    "com.mobileappzgroup.lovelines": 1,
-    "com.mobileappzgroup.inspireme": 2,
-    "com.mobileappz.quickchat": 3,
-    "com.mobileappzgroup.rhymes": 4,
-    "com.mobileappzgroup.balmantras": 5,
-    "com.mobileappzgroup.romanticareads": 6,
-    "com.mobileappzgroup.imagefit": 7,
-    "com.mobileappzgroup.shotspace": 8,
-    "com.mobileappzgroup.textify": 9,
-    "com.mobileappzgroup.copydesk": 10,
-    "com.mobileappzgroup.unitgo": 11,
-    "com.mobileappzgroup.vitals": 12,
-    "com.mobileappzgroup.flagsprint": 13,
-    "com.mobileappzgroup.base64toolkit": 14,
-    "com.mobileappzgroup.aarti": 15,
-    "com.mobileappzgroup.qrstudio": 16,
-    "com.mobileappzgroup.pwdgenerator": 17,
-    "com.mobileappzgroup.cropify": 18
+    "com.mobileappzgroup.lovelines"     :  1,
+    "com.mobileappzgroup.inspireme"     :  2,
+    "com.mobileappz.quickchat"          :  3,
+    "com.mobileappzgroup.rhymes"        :  4,
+    "com.mobileappzgroup.balmantras"    :  5,
+    "com.mobileappzgroup.romanticareads":  6,
+    "com.mobileappzgroup.imagefit"      :  7,
+    "com.mobileappzgroup.shotspace"     :  8,
+    "com.mobileappzgroup.textify"       :  9,
+    "com.mobileappzgroup.copydesk"      : 10,
+    "com.mobileappzgroup.unitgo"        : 11,
+    "com.mobileappzgroup.vitals"        : 12,
+    "com.mobileappzgroup.flagsprint"    : 13,
+    "com.mobileappzgroup.base64toolkit" : 14,
+    "com.mobileappzgroup.aarti"         : 15,
+    "com.mobileappzgroup.qrstudio"      : 16,
+    "com.mobileappzgroup.pwdgenerator"  : 17,
+    "com.mobileappzgroup.cropify"       : 18
   },
-  "webListedApps" : [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15],
+  "webListedApps": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16],
   "filters": {
-    "1": [
-      2,3,4,5,6,7,8,9,10,11,12,13,14,15
-    ],
-    "2": [
-      1,3,4,5,6,7,8,9,10,11,12,13,14,15
-    ],
-    "3": [
-      5,1,2,4,6,7,8,9,10,11,12,13,14,15
-    ],
-    "4": [
-      1,2,3,5,6,7,8,9,10,11,12,13,14,15
-    ],
-    "5": [
-      3,1,2,4,6,7,8,9,10,11,12,13,14,15
-    ],
-    "6": [
-      1,2,3,4,5,7,8,9,10,11,12,13,14,15
-    ],
-    "7": [
-      1,2,3,4,5,6,8,9,10,11,12,13,14,15
-    ],
-    "8": [
-      1,2,3,4,5,6,7,9,10,11,12,13,14,15
-    ],
-    "9": [
-      1,2,3,4,5,6,7,8,10,11,12,13,14,15
-    ],
-    "10": [
-      1,2,3,4,5,6,7,8,9,11,12,13,14,15
-    ],
-    "11": [
-      1,2,3,4,5,6,7,8,9,10,12,13,14,15
-    ],
-    "12": [
-      1,2,3,4,5,6,7,8,9,10,11,13,14,15
-    ],
-    "13": [
-      1,2,3,4,5,6,7,8,9,10,11,12,14,15
-    ],
-    "14": [
-      1,2,3,4,5,6,7,8,9,10,11,12,13,15
-    ],
-    "15": [
-      1,2,3,4,5,6,7,8,9,10,11,12,13,14
-    ],
-    "16": [
-      1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
-    ],
-    "17": [
-      1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
-    ],
-    "18": [
-      1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
-    ]
+    "1" : [ 6,  9,  2,  3, 12,  8, 10,  7, 16, 13, 11,  4,  5, 15, 14],
+    "2" : [12,  1,  6,  5, 15, 13,  4,  3,  9,  8, 10,  7, 11, 16, 14],
+    "3" : [ 9, 16, 10,  8,  7,  1,  6,  2, 11, 14, 12, 13,  4,  5, 15],
+    "4" : [ 5, 15, 13,  2,  6,  1, 12,  9,  3,  7,  8, 10, 11, 16, 14],
+    "5" : [15,  4, 13,  2, 12,  6,  1,  3,  9, 11, 10,  8,  7, 16, 14],
+    "6" : [ 1,  2,  9,  3, 12,  4,  5, 15, 13, 10,  8,  7, 11, 16, 14],
+    "7" : [16,  8, 14, 11, 10,  3,  9,  1,  6,  2, 12, 13,  4,  5, 15],
+    "8" : [10,  7, 16,  3,  9, 11, 14, 12,  2,  1,  6, 13,  4,  5, 15],
+    "9" : [ 3,  1,  6, 10,  8, 16,  2,  7, 11, 12, 14, 13,  4,  5, 15],
+    "10": [ 8,  9,  3, 16, 14, 11,  7, 12,  2,  1,  6, 13,  4,  5, 15],
+    "11": [14, 16,  7, 12, 10,  8,  3, 13,  9,  2,  1,  6,  4,  5, 15],
+    "12": [ 2, 11, 13,  7, 10,  5, 15,  4,  8,  3, 16,  9,  1,  6, 14],
+    "13": [ 4,  5, 11,  2, 15, 12,  6,  1,  3,  9,  7,  8, 10, 16, 14],
+    "14": [11, 16,  7, 10,  8,  3,  9, 12, 13,  2,  1,  6,  4,  5, 15],
+    "15": [ 5,  4,  2, 13, 12,  6,  1,  3,  9, 11,  7,  8, 10, 16, 14],
+    "16": [ 3, 10,  7, 14, 11,  8,  9, 12,  2, 13,  1,  6,  4,  5, 15],
+    "17": [14, 16, 10,  8,  7,  3, 11,  9, 12,  2, 13,  1,  6,  4,  5, 15],
+    "18": [ 7,  8, 16, 10,  3,  9, 11, 14, 12,  2,  1,  6, 13,  4,  5, 15]
   },
   "apps": {
     "1": {
@@ -86,7 +50,7 @@
           "shortDesc": "Charming pick-up lines to ignite romance and spark love.",
           "category": "Entertainment"
         },
-        "_en": {"name":"","shortDesc":"","category":""}
+        "_en": {"name": "", "shortDesc": "", "category": ""}
       },
       "icon": "https://mobileappzgroup.github.io/appIcons/LoveLines.webp",
       "packageName": "com.mobileappzgroup.lovelines"
@@ -98,7 +62,7 @@
           "shortDesc": "Boost your day with inspiring quotes from various themes!",
           "category": "Entertainment"
         },
-        "_en": {"name":"","shortDesc":"","category":""}
+        "_en": {"name": "", "shortDesc": "", "category": ""}
       },
       "icon": "https://mobileappzgroup.github.io/appIcons/InspireMe.webp",
       "packageName": "com.mobileappzgroup.inspireme"
@@ -106,11 +70,11 @@
     "3": {
       "infoByLanguage": {
         "default": {
-          "name": "Quick Chat: Whatsapp Direct",
+          "name"     : "Quick Chat: Whatsapp Direct",
           "shortDesc": "Direct chat with unsaved numbers. Fast & simple.",
-          "category": "Tools"
+          "category" : "Tools"
         },
-        "_en": {"name":"","shortDesc":"","category":""}
+        "_en": {"name": "", "shortDesc": "", "category": ""}
       },
       "icon": "https://mobileappzgroup.github.io/appIcons/QuickChat.webp",
       "packageName": "com.mobileappz.quickchat"
@@ -122,7 +86,7 @@
           "shortDesc": "Classic nursery rhymes for families. Simple, calming, and easy to enjoy together",
           "category": "Entertainment"
         },
-        "_en": {"name":"","shortDesc":"","category":""}
+        "_en": {"name": "", "shortDesc": "", "category": ""}
       },
       "icon": "https://mobileappzgroup.github.io/appIcons/LittleRhymes.webp",
       "packageName": "com.mobileappzgroup.rhymes"
@@ -134,7 +98,7 @@
           "shortDesc": "Simple mantras and shlokas for calm chanting and mindful learning.",
           "category": "Entertainment"
         },
-        "_en": {"name":"","shortDesc":"","category":""}
+        "_en": {"name": "", "shortDesc": "", "category": ""}
       },
       "icon": "https://mobileappzgroup.github.io/appIcons/BalMantras.webp",
       "packageName": "com.mobileappzgroup.balmantras"
@@ -146,7 +110,7 @@
           "shortDesc": "Romantic novels, love stories & heartfelt fiction in one beautiful reading app",
           "category": "Books"
         },
-        "_en": {"name":"","shortDesc":"","category":""}
+        "_en": {"name": "", "shortDesc": "", "category": ""}
       },
       "icon": "https://mobileappzgroup.github.io/appIcons/Romanticareads.webp",
       "packageName": "com.mobileappzgroup.romanticareads"
@@ -158,7 +122,7 @@
           "shortDesc": "Resize, compress & convert images to meet upload size and format limits.",
           "category": "Tools"
         },
-        "_en": {"name":"","shortDesc":"","category":""}
+        "_en": {"name": "", "shortDesc": "", "category": ""}
       },
       "icon": "https://mobileappzgroup.github.io/appIcons/ImageFit.webp",
       "packageName": "com.mobileappzgroup.imagefit"
@@ -166,11 +130,11 @@
     "8": {
       "infoByLanguage": {
         "default": {
-          "name": "ShotSpace – Smart Screenshots",
+          "name"     : "ShotSpace – Smart Screenshots",
           "shortDesc": "Find, tag & organize your screenshots instantly",
-          "category": "Productivity"
+          "category" : "Productivity"
         },
-        "_en": {"name":"","shortDesc":"","category":""}
+        "_en": {"name": "", "shortDesc": "", "category": ""}
       },
       "icon": "https://mobileappzgroup.github.io/appIcons/ShotSpace.webp",
       "packageName": "com.mobileappzgroup.shotspace"
@@ -182,7 +146,7 @@
           "shortDesc": "Repeat text, apply fancy Unicode fonts, and create stylish messages in seconds",
           "category": "Tools"
         },
-        "_en": {"name":"","shortDesc":"","category":""}
+        "_en": {"name": "", "shortDesc": "", "category": ""}
       },
       "icon": "https://mobileappzgroup.github.io/appIcons/Textify.webp",
       "packageName": "com.mobileappzgroup.textify"
@@ -194,7 +158,7 @@
           "shortDesc": "Save, organize, and manage copied text with tags and categories.",
           "category": "Productivity"
         },
-        "_en": {"name":"","shortDesc":"","category":""}
+        "_en": {"name": "", "shortDesc": "", "category": ""}
       },
       "icon": "https://mobileappzgroup.github.io/appIcons/CopyDesk.webp",
       "packageName": "com.mobileappzgroup.copydesk"
@@ -202,11 +166,11 @@
     "11": {
       "infoByLanguage": {
         "default": {
-          "name": "UnitGo – Smart Unit Converter",
+          "name"     : "UnitGo – Smart Unit Converter",
           "shortDesc": "Convert units & currency instantly. Just type and go.",
-          "category": "Tools"
+          "category" : "Tools"
         },
-        "_en": {"name":"","shortDesc":"","category":""}
+        "_en": {"name": "", "shortDesc": "", "category": ""}
       },
       "icon": "https://mobileappzgroup.github.io/appIcons/UnitGo.webp",
       "packageName": "com.mobileappzgroup.unitgo"
@@ -218,7 +182,7 @@
           "shortDesc": "Track weight, visualize trends, and master your metabolism with zero friction.",
           "category": "Health & fitness"
         },
-        "_en": {"name":"","shortDesc":"","category":""}
+        "_en": {"name": "", "shortDesc": "", "category": ""}
       },
       "icon": "https://mobileappzgroup.github.io/appIcons/Vitals.webp",
       "packageName": "com.mobileappzgroup.vitals"
@@ -230,7 +194,7 @@
           "shortDesc": "The ultimate fast-paced flag challenge. Race the clock, not the textbook.",
           "category": "Educational"
         },
-        "_en": {"name":"","shortDesc":"","category":""}
+        "_en": {"name": "", "shortDesc": "", "category": ""}
       },
       "icon": "https://mobileappzgroup.github.io/appIcons/FlagSprint.webp",
       "packageName": "com.mobileappzgroup.flagsprint"
@@ -242,7 +206,7 @@
           "shortDesc": "Fast Base64 encode, decode & JWT tools for developers. Offline & private.",
           "category": "Tools"
         },
-        "_en": {"name":"","shortDesc":"","category":""}
+        "_en": {"name": "", "shortDesc": "", "category": ""}
       },
       "icon": "https://mobileappzgroup.github.io/appIcons/Base64Toolkit.webp",
       "packageName": "com.mobileappzgroup.base64toolkit"
@@ -254,10 +218,22 @@
           "shortDesc": "Complete Aarti and Chalisa sangrah in Hindi. Clean, devotional, offline.",
           "category": "Entertainment"
         },
-        "_en": {"name":"","shortDesc":"","category":""}
+        "_en": {"name": "", "shortDesc": "", "category": ""}
       },
       "icon": "https://mobileappzgroup.github.io/appIcons/AartiSangrah.webp",
       "packageName": "com.mobileappzgroup.aarti"
+    },
+    "16": {
+      "infoByLanguage": {
+        "default": {
+          "name": "QR Studio – Scan & Create QR",
+          "shortDesc": "Fast QR scanner & creator with smart history, collections & custom design.",
+          "category": "Tools"
+        },
+        "_en": {"name": "", "shortDesc": "", "category": ""}
+      },
+      "icon": "https://mobileappzgroup.github.io/appIcons/QRStudio.webp",
+      "packageName": "com.mobileappzgroup.qrstudio"
     }
   }
 }
