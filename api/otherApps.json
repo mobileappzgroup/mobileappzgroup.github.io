@@ -249,18 +249,6 @@
       "icon": "https://mobileappzgroup.github.io/appIcons/PassSafe.webp",
       "packageName": "com.mobileappzgroup.pwdgenerator"
     },
-    "17": {
-      "infoByLanguage": {
-        "default": {
-          "name": "PassSafe : Password Generator",
-          "shortDesc": "Generate strong, secure passwords instantly. Offline, fast & easy to use.",
-          "category": "Tools"
-        },
-        "_en": {"name": "", "shortDesc": "", "category": ""}
-      },
-      "icon": "https://mobileappzgroup.github.io/appIcons/PassSafe.webp",
-      "packageName": "com.mobileappzgroup.pwdgenerator"
-    },
     "18": {
       "infoByLanguage": {
         "default": {
@@ -272,6 +260,18 @@
       },
       "icon": "https://mobileappzgroup.github.io/appIcons/Cropify.webp",
       "packageName": "com.mobileappzgroup.cropify"
+    },
+    "19": {
+      "infoByLanguage": {
+        "default": {
+          "name": "PassLock – Password Manager",
+          "shortDesc": "Secure offline password vault with encrypted storage & backup.",
+          "category": "Productivity"
+        },
+        "_en": {"name": "", "shortDesc": "", "category": ""}
+      },
+      "icon": "https://mobileappzgroup.github.io/appIcons/PassLock.webp",
+      "packageName": "com.mobileappzgroup.passlock"
     }
   }
 }
